@@ -1,0 +1,1 @@
+print("Czy coś się zmieniło?")
